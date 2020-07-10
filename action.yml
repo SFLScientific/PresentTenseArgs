@@ -1,0 +1,7 @@
+# action.yml
+name: 'Check args are present tense'
+description: 'checks all python argparse args are present tense'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
