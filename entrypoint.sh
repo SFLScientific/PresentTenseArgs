@@ -1,6 +1,5 @@
 #!/bin/sh -l
 
-pip3 install pyinflect
 #!/bin/bash
 
 #ARGS=$(egrep -n "add_argument" **.py)
