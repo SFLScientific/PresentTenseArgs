@@ -1,5 +1,5 @@
 # action.yml
-name: 'Check args are present tense'
+name: 'Status Check for present tense args'
 description: 'checks all python argparse args are present tense'
 
 runs:
